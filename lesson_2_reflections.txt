@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+initialize a new git repository at that directory and create a hidden .git file 
+which containt all the meta data regarding the git repository created
