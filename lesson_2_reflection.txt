@@ -1,0 +1,4 @@
+How can you use the staging area to make sure you have one commit per logical change?
+Just make one logical change in the code,
+ add the changed files to the staging area and finally if the changes are bad then checkout to the previous commit or otherwise commit the changes.
+It gives the flexibility to split the task into smaller tasks and commit smaller changes.
